@@ -1,0 +1,1 @@
+ID=56, Nombre=adrian, Equipo=juventus, NumeroGoles=45, NumeroAutoGoles=1, NumeroPases=67
